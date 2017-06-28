@@ -16,3 +16,5 @@ Este proyecto trata de esto y funciona así.
 [Roadmap]
 
 [Licencias]
+
+[Agradecimientos]
